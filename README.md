@@ -1,1 +1,1 @@
-# alabuga
+# small console game
